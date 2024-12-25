@@ -39,7 +39,7 @@ namespace Tyuiu.MilyutinND.Sprint7.Project.V12
 
         private void buttonGuide_MND_Click(object sender, EventArgs e)
         {
-            FormInfo formGuides = new FormInfo();
+            FormGuides formGuides = new FormGuides();
             formGuides.TopMost = true;
             formGuides.ShowDialog();
         }

@@ -1,7 +1,7 @@
 namespace Tyuiu.MilyutinND.Sprint7.Project.V12.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class DataTest
     {
         [TestMethod]
         public void TestMethod1()

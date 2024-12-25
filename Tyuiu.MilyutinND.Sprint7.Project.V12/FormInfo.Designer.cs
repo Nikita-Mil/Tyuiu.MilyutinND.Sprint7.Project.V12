@@ -42,7 +42,7 @@
             labelInfo_MND.FlatStyle = FlatStyle.Popup;
             labelInfo_MND.Font = new Font("Pobeda", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 204);
             labelInfo_MND.ForeColor = SystemColors.ButtonHighlight;
-            labelInfo_MND.Location = new Point(279, 36);
+            labelInfo_MND.Location = new Point(304, 40);
             labelInfo_MND.Name = "labelInfo_MND";
             labelInfo_MND.Size = new Size(352, 198);
             labelInfo_MND.TabIndex = 0;
@@ -64,7 +64,7 @@
             buttonClose_MND.FlatStyle = FlatStyle.Popup;
             buttonClose_MND.Font = new Font("Pobeda", 19.7999973F, FontStyle.Bold, GraphicsUnit.Point, 204);
             buttonClose_MND.ForeColor = SystemColors.ButtonHighlight;
-            buttonClose_MND.Location = new Point(372, 267);
+            buttonClose_MND.Location = new Point(393, 267);
             buttonClose_MND.Name = "buttonClose_MND";
             buttonClose_MND.Size = new Size(169, 83);
             buttonClose_MND.TabIndex = 2;
